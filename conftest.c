@@ -34,7 +34,7 @@
 #define HAVE_LIBPNG 1
 #define HAVE_LIBFREETYPE 1
 #define HAVE_FT2BUILD_H 1
-/* end confdefs.h.  */
+/*  end confdefs.h.  */
 
 /* Override any gcc2 internal prototype to avoid an error.  */
 #ifdef __cplusplus
